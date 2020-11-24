@@ -70,4 +70,11 @@ html {
  * =============
  */
 
+@media (prefers-color-scheme: dark) {
+
+}
+
+@media (prefers-reduced-motion) {
+
+}
 /* stylelint-enable */
